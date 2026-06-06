@@ -18,7 +18,7 @@
         </activity>
         <activity android:name=".Equipe" />
         <activity android:name=".Cursos" />
-        <activity android:name=".Midia"></activity>
+        <activity android:name=".Midia" />
     </application>
 
 </manifest>

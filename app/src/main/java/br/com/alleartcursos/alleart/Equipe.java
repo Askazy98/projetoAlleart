@@ -4,7 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Equipe extends AppCompatActivity {
+public class
+Equipe extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,4 +16,5 @@ public class Equipe extends AppCompatActivity {
     public void clickVoltar(View view) {
         finish();
     }
+
 }
